@@ -1,7 +1,9 @@
 Web-Twins Template Mode
 =======================
 
-I used the framework web-twins to develop my blog, <a href="https://github.com/Web-Twins" target="_blank">web-twins</a> is a framework which could separate frontend and backend development.
+<a href="https://github.com/Web-Twins" target="_blank">Web-Twins</a> is a framework which could separate the frontend and backend development.
+
+This repository is a example to show how to develop a website in template mode for Frontend engineers.
 
 Start Up
 ---------
