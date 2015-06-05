@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "name": "Web-Twins-JS",
+    "description": "Template Mode within JS",                                                                                                        
+    "main": "",
+    "keywords": [""],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Web-Twins/Web-Twins-JS.git"
+    },  
+    "contributors": "puritys.chen@outlook.com,
+    "homepage": "https://github.com/Web-Twins/Web-Twins-JS",
+    "license" : "MIT",
+    "files": [""],
+    "scripts": {
+        "test": "mocha tests"
+    },  
+    "dependencies": {
+       "web-twins": "^1.0.4"
+    }   
+}
