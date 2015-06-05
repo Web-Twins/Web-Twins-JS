@@ -8,7 +8,7 @@
         "type": "git",
         "url": "git@github.com:Web-Twins/Web-Twins-JS.git"
     },  
-    "contributors": "puritys.chen@outlook.com,
+    "contributors": "puritys.chen@outlook.com",
     "homepage": "https://github.com/Web-Twins/Web-Twins-JS",
     "license" : "MIT",
     "files": [""],
